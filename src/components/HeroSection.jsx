@@ -7,7 +7,7 @@ function HeroSection() {
          
         <h1 className="mt-5 max-w-3xl text-4xl font-black leading-tight text-[#3A405A] md:text-6xl">
           Hi, I&apos;m Chloe.
-          <span className="hero-accent-text"> I&apos;m a Biomedical Engineering Student at the University of Waterloo.</span>
+          <span className="hero-accent-text"> I&apos;m a Biomedical Engineering Student.</span>
         </h1>
 
         <p className="mt-5 max-w-2xl text-base leading-relaxed text-[#685044] md:text-lg">
