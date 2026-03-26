@@ -139,7 +139,7 @@ Current template colors:
 - `#3A405A` (main text / headings)
 - `#AEC5EB` (borders)
 - `#F9DEC9` (cards / light backgrounds)
-- `#E9AFA3` (hover / accents)
+- `#CAA9CF` (hover / accents)
 - `#685044` (secondary text)
 
 Tip: Replace one color at a time, then save and check your browser.
